@@ -21,8 +21,8 @@
     while inactive high-balance customers had a higher risk of churn
 
 ## **Recommendations**
-     * Improve customer engagement, promote multi- product adoption , strength loyalty
+* Improve customer engagement, promote multi- product adoption , strength loyalty
 
-  * **Outcome**
-   * Developed an inactive dashboard to visualize customer engagement,
+## **Outcome**
+  Developed an inactive dashboard to visualize customer engagement,
     product utilization, and churn insights
