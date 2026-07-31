@@ -26,10 +26,15 @@
 ## **Outcome**
   Developed an inactive dashboard to visualize customer engagement, product utilization, and churn insights
 
-## **Project Reports**
-http://https://drive.google.com/file/d/1FtOPTidbXSPG7M6_Yjh5m3XEj6ofv47x/view?usp=drive_link
+## **Project Report**
+https://drive.google.com/file/d/1FtOPTidbXSPG7M6_Yjh5m3XEj6ofv47x/view?usp=drive_link
+
+## **Analytical Methodology & KPI
+https://drive.google.com/drive/folders/1kTAHQcD6dBSxDLryCQ3ptdmTAHPp47if?usp=drive_link
 
 ## **Live Analytics**
 *Streamlit Dashboard
 https://customer-engagement-project-djkywz8xvtwjnevd7y9mht.streamlit.app
 
+## **Project Summary**
+https://drive.google.com/file/d/1VQgeP5P3tSh6lY_VqkQ5egqie-DZrqU8/view?usp=drive_link
