@@ -27,7 +27,6 @@
   Developed an inactive dashboard to visualize customer engagement, product utilization, and churn insights
 
 ## **Project Report**
-https://drive.google.com/file/d/1FtOPTidbXSPG7M6_Yjh5m3XEj6ofv47x/view?usp=drive_link
 
 ## **Analytical Methodology & KPI**
 https://drive.google.com/drive/folders/1kTAHQcD6dBSxDLryCQ3ptdmTAHPp47if?usp=drive_link
